@@ -54,13 +54,6 @@ Here are some ideas to get you started:
 
 ---
 
-## 🌱 Currently Learning  
-- Advanced Software Design Patterns  
-- Full-Stack Web Development  
-- Systems & Network Programming  
-
----
-
 ## 📫 Connect with me  
 📧 **Email**: yangvallee@gmail.com  
 
