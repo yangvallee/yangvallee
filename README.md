@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 💻 **Computer Science Student | Developer**  
 📍 **Based in France**  
-🎓 **Currently in 2nd year of a BUT in Computer Science at IUT Robert Schuman**  
+🎓 **Currently in 3rd year of a BUT in Computer Science at IUT Robert Schuman**  
 
 ---
 
