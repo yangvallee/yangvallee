@@ -10,7 +10,7 @@ BUT 3 Computer Science -- IUT Robert Schuman, Strasbourg, France
 French / Chinese / English / German
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-yangvallee--portfolio.vercel.app-8b5cf6?style=for-the-badge)](https://yangvallee-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yang_Vallee-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yangvallee)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yang_Vallee-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yang-vallée)
 [![Email](https://img.shields.io/badge/Email-yangvallee@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yangvallee@gmail.com)
 
 </div>
