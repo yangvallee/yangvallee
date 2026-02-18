@@ -48,8 +48,6 @@ French / Chinese / English / German
 
 ---
 
-## Featured Projects
-
 ### Personal Projects
 | Project | Description | Stack | Link |
 |---------|-------------|-------|------|
