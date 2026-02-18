@@ -1,8 +1,9 @@
 <div align="center">
 
-# Hey there! I'm **Yang Vallee**
+# **About Me**
 
 ### Software Development Apprentice
+21 years old
 
 BUT 3 Computer Science -- IUT Robert Schuman, Strasbourg, France
 
@@ -14,9 +15,28 @@ French / Chinese / English / German
 
 </div>
 
+---  
+
+#### Personal Projects
+| Project | Description | Stack | Link |
+|---------|-------------|-------|------|
+| **dreamlol.gg** | Track your League of Legends performance | Next.js, React, TypeScript, Riot API | [dreamlol.gg](https://dreamlol.vercel.app/) |
+| **Portfolio** | My interactive Solo Leveling-themed portfolio | Next.js, TypeScript, Framer Motion | [portfolio](https://yangvallee-portfolio.vercel.app) |
+
+#### Academic Projects
+| Project | Duration | Team | Stack |
+|---------|----------|------|-------|
+| **StrasPlanning** -- Project management app (PC + Mobile) | 10 wks | 6 | React, Electron, React Native, TypeScript |
+| **Serious Game (Godot)** -- Educational training game | 15 wks | 4 | Godot, GDScript |
+| **Game Library** -- Client/server network system | 8 wks | 3 | C, Networking |
+| **Maze Game (Java)** -- Design Patterns showcase | 4 wks | 2 | Java Swing, Design Patterns |
+| **Pokemon Game** -- OOP combat system | 6 wks | 2 | Java |
+| **Budget Manager** -- Desktop app with database | 6 wks | 3 | C# .NET, SQL |
+| **Sudoku Solver** -- Solver with web interface | 5 wks | 2 | C#, HTML5/CSS3 |
+
 ---
 
-## Tech Stack
+### Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -45,36 +65,6 @@ French / Chinese / English / German
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
-
----
-
-### Personal Projects
-| Project | Description | Stack | Link |
-|---------|-------------|-------|------|
-| **dreamlol.gg** | Track your League of Legends performance | Next.js, React, TypeScript, Riot API | [dreamlol.gg](https://dreamlol.vercel.app/) |
-| **Portfolio** | My interactive Solo Leveling-themed portfolio | Next.js, TypeScript, Framer Motion | [portfolio](https://yangvallee-portfolio.vercel.app) |
-
-### Academic Projects
-| Project | Duration | Team | Stack |
-|---------|----------|------|-------|
-| **StrasPlanning** -- Project management app (PC + Mobile) | 10 wks | 6 | React, Electron, React Native, TypeScript |
-| **Serious Game (Godot)** -- Educational training game | 15 wks | 4 | Godot, GDScript |
-| **Game Library** -- Client/server network system | 8 wks | 3 | C, Networking |
-| **Maze Game (Java)** -- Design Patterns showcase | 4 wks | 2 | Java Swing, Design Patterns |
-| **Pokemon Game** -- OOP combat system | 6 wks | 2 | Java |
-| **Budget Manager** -- Desktop app with database | 6 wks | 3 | C# .NET, SQL |
-| **Sudoku Solver** -- Solver with web interface | 5 wks | 2 | C#, HTML5/CSS3 |
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yangvallee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangvallee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
-
-</div>
 
 ---
 
