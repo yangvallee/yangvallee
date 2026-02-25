@@ -21,7 +21,7 @@ French / Chinese / English / German
 | Project | Description | Stack | Link |
 |---------|-------------|-------|------|
 | **dreamlol.gg** | Track your League of Legends performance | Next.js, React, TypeScript, Riot API | [dreamlol.gg](https://dreamlol.vercel.app/) |
-| **Portfolio** | My interactive Solo Leveling-themed portfolio | Next.js, TypeScript, Framer Motion | [portfolio](https://yangvallee-portfolio.vercel.app) |
+| **Portfolio** | My portfolio | Next.js, TypeScript, Framer Motion | [portfolio](https://yangvallee-portfolio.vercel.app) |
 
 #### Academic Projects
 | Project | Duration | Team | Stack |
