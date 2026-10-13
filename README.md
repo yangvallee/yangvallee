@@ -183,7 +183,7 @@
 <div align="center">
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yangvallee&show_icons=true&hide_border=true&bg_color=00000000&card_width=430&title_color=8b5cf6&icon_color=8b5cf6&text_color=c9d1d9"><img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=yangvallee&show_icons=true&hide_border=true&bg_color=00000000&card_width=430&title_color=7c3aed&icon_color=7c3aed&text_color=24292f"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yangvallee&layout=compact&langs_count=8&hide=makefile,shell&hide_border=true&bg_color=00000000&card_width=370&title_color=8b5cf6&icon_color=8b5cf6&text_color=c9d1d9"><img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangvallee&layout=compact&langs_count=8&hide=makefile,shell&hide_border=true&bg_color=00000000&card_width=370&title_color=7c3aed&icon_color=7c3aed&text_color=24292f"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yangvallee&layout=compact&langs_count=8&hide=makefile%2Cshell&hide_border=true&bg_color=00000000&card_width=370&title_color=8b5cf6&icon_color=8b5cf6&text_color=c9d1d9"><img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangvallee&layout=compact&langs_count=8&hide=makefile%2Cshell&hide_border=true&bg_color=00000000&card_width=370&title_color=7c3aed&icon_color=7c3aed&text_color=24292f"></picture>
 
 </div>
 
